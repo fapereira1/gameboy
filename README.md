@@ -1,2 +1,2 @@
 # gameboy
-Rust Gameboy emulator
+Rust simple Gameboy emulator
